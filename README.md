@@ -38,13 +38,7 @@ Start with **Create Account** and note your account number. You need it, along w
 
 This is a learning project. It is **not** secure enough for real financial data.
 
-## Author
-
 **A Mokshit Rayudu**
 
 - GitHub: [@mokshitrayudu](https://github.com/mokshitrayudu)
 - LinkedIn: [linkedin.com/in/mokshitrayudu](https://linkedin.com/in/mokshitrayudu)
-
-## License
-
-This project is open source. Add a license of your choice (for example, MIT) to the repository.
